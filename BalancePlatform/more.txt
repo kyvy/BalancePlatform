@@ -1,0 +1,14 @@
+http://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/moments/moments.html
+http://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html
+http://answers.opencv.org/question/74777/how-to-use-approxpolydp-to-close-contours/
+http://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/hull/hull.html **
+
+http://stackoverflow.com/questions/7902895/opencv-transform-using-chessboard
+http://stackoverflow.com/questions/7838487/executing-cvwarpperspective-for-a-fake-deskewing-on-a-set-of-cvpoint
+
+http://docs.opencv.org/3.2.0/d6/d55/tutorial_table_of_content_calib3d.html
+http://answers.opencv.org/question/2902/how-to-calculate-the-distance-from-the-camera-origin-to-any-of-the-corners-square-chessboard-calibration/
+
+http://docs.opencv.org/trunk/da/d6e/tutorial_py_geometric_transformations.html
+http://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/\
+http://stackoverflow.com/questions/6012316/opencv-c-perspective-transform

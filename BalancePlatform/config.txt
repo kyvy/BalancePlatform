@@ -1,0 +1,20 @@
+Ball Threshold/H max: 25
+Ball Threshold/H min: 0
+Ball Threshold/S max: 255
+Ball Threshold/S min: 103
+Ball Threshold/V max: 255
+Ball Threshold/V min: 128
+Ball Threshold/dilateSize: 1
+Ball Threshold/erodeSize: 0
+KD: 0.100000
+KI: 0.100000
+KP: 0.950000
+Platfrom Threshold/H max: 97
+Platfrom Threshold/H min: 0
+Platfrom Threshold/S max: 73
+Platfrom Threshold/S min: 0
+Platfrom Threshold/V max: 229
+Platfrom Threshold/V min: 79
+Platfrom Threshold/dilateSize: 1
+Platfrom Threshold/erodeSize: 8
+
